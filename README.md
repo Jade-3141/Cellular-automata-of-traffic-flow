@@ -1,0 +1,1 @@
+Two slightly diffrent models of traffic flow based of a modified version of the STCA model where accelration and breaking are combined into one rule. The second file has even distrobuion of vehicals initaly and is slow to start.
